@@ -8,6 +8,31 @@ foregrounds over a soft brown-black background, with a dusty terracotta accent.
 
 ![Turing and von Neumann](backgrounds/1-turing-von-neumann.jpg)
 
+## Additional wallpapers
+
+The collection now also includes fourteen generated portraits of influential
+computer scientists and software pioneers:
+
+- [Linus Torvalds](backgrounds/2-linus-torvalds.jpg) — Linux kernel and Git
+- [Ada Lovelace](backgrounds/3-ada-lovelace.jpg) — algorithmic computing and the Analytical Engine
+- [Grace Hopper](backgrounds/4-grace-hopper.jpg) — compilers and COBOL
+- [Donald Knuth](backgrounds/5-donald-knuth.jpg) — algorithms, TeX, and technical publishing
+- [Barbara Liskov](backgrounds/6-barbara-liskov.jpg) — data abstraction and distributed systems
+- [Margaret Hamilton](backgrounds/7-margaret-hamilton.jpg) — Apollo flight software and software engineering
+- [Dennis Ritchie](backgrounds/8-dennis-ritchie.jpg) — C and Unix
+- [Ken Thompson](backgrounds/9-ken-thompson.jpg) — Unix and operating systems
+- [Tim Berners-Lee](backgrounds/10-tim-berners-lee.jpg) — the World Wide Web and hypertext
+- [Niklaus Wirth](backgrounds/11-niklaus-wirth.jpg) — Pascal, Modula-2, and Oberon
+- [Edsger Dijkstra](backgrounds/12-edsger-dijkstra.jpg) — structured programming and algorithms
+- [John Backus](backgrounds/13-john-backus.jpg) — FORTRAN, BNF, and compilers
+- [C. A. R. Hoare](backgrounds/14-tony-hoare.jpg) — program verification and Hoare logic
+- [Adleman · Rivest · Shamir](backgrounds/15-adleman-rivest-shamir.jpg) — RSA public-key cryptography
+
+The wallpapers use the same aged-paper, monochrome ink, technical-diagram,
+and terracotta-accent treatment as the original. Research notes, source
+portrait credits, licenses, and generation details are in
+[CREDITS.md](CREDITS.md).
+
 ## Install
 
 ```bash
