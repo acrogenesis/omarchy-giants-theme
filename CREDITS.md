@@ -1,6 +1,6 @@
 # Giants wallpaper research and credits
 
-The fourteen additional wallpapers are generated reinterpretations in the style
+The fifteen additional wallpapers are generated reinterpretations in the style
 of the original Turing–von Neumann wallpaper. Each source portrait below was
 selected from Wikimedia Commons because it is public domain or published under
 a Creative Commons license. The source portrait was used as an identity
@@ -26,6 +26,7 @@ remain exact and legible.
 | John Backus | Led the creation of FORTRAN, introduced BNF with Peter Naur, and pioneered functional programming. | [13-john-backus.jpg](backgrounds/13-john-backus.jpg) |
 | C. A. R. Hoare | Developed Quicksort, Hoare logic, and foundational ideas for specifying and verifying programs and concurrent systems. | [14-tony-hoare.jpg](backgrounds/14-tony-hoare.jpg) |
 | Leonard Adleman, Ronald Rivest, and Adi Shamir | Co-created RSA, a practical public-key cryptosystem that helped establish modern cryptography. | [15-adleman-rivest-shamir.jpg](backgrounds/15-adleman-rivest-shamir.jpg) |
+| Bill Joy | Created vi, made foundational contributions to BSD Unix and TCP/IP networking, and co-founded Sun Microsystems. | [17-bill-joy.jpg](backgrounds/17-bill-joy.jpg) |
 
 The research was cross-checked against institutional histories and profiles:
 
@@ -46,6 +47,7 @@ The research was cross-checked against institutional histories and profiles:
 - [ACM — John Backus oral history](https://amturing.acm.org/pdf/BackusTuringTranscript.pdf)
 - [ACM — Tony Hoare oral history](https://amturing.acm.org/pdf/HoareTuringTranscript.pdf)
 - [ACM — Leonard Adleman oral history](https://amturing.acm.org/pdf/AdlemanTuringTranscript.pdf)
+- [UC Berkeley Engineering — Bill Joy](https://engineering.berkeley.edu/bill-joy-co-founder-of-sun-microsystems/)
 
 ## Source portrait credits
 
@@ -65,9 +67,10 @@ The research was cross-checked against institutional histories and profiles:
 | John Backus | [John Backus at control panel at60-inch cyclotron.jpg](https://commons.wikimedia.org/wiki/File:John_Backus_at_control_panel_at60-inch_cyclotron.jpg) | Donald Cooksey, Lawrence Berkeley National Laboratory | Public domain |
 | C. A. R. Hoare | [Sir Tony Hoare IMG 5102.jpg](https://commons.wikimedia.org/wiki/File:Sir_Tony_Hoare_IMG_5102.jpg) | Rama | [CC BY-SA 2.0 fr](https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en) |
 | Leonard Adleman, Ronald Rivest, and Adi Shamir | [2017-08-Ron Rivest Adi Shamir and Len Adleman on CRYPTO 2017 in UCSB.jpg](https://commons.wikimedia.org/wiki/File:2017-08-Ron_Rivest_Adi_Shamir_and_Len_Adleman_on_CRYPTO_2017_in_UCSB.jpg) | Author not specified on the Commons page | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
+| Bill Joy | [Bill Joy at World Economic Forum (Davos), 2003-01 (cropped).jpg](https://commons.wikimedia.org/wiki/File:Bill_Joy_at_World_Economic_Forum_(Davos),_2003-01_(cropped).jpg) | SqueakBox | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) |
 
 ## Generation notes
 
-- All fourteen added wallpapers are JPEGs at 6144×4096 in the `backgrounds/` directory.
+- All fifteen added wallpapers are JPEGs at 6144×4096 in the `backgrounds/` directory.
 - The generated art was produced with the built-in ImageGen workflow using the original wallpaper as a style reference and the credited portrait as an identity reference.
 - Technical motifs were tailored to each person's contribution; captions were composited afterward with Liberation Sans for accurate text.
