@@ -57,7 +57,7 @@ The research was cross-checked against institutional histories and profiles:
 | --- | --- | --- | --- |
 | Linus Torvalds | [LinuxCon Europe Linus Torvalds 03.jpg](https://commons.wikimedia.org/wiki/File:LinuxCon_Europe_Linus_Torvalds_03.jpg) | Krd | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | Ada Lovelace | [Ada Lovelace portrait.jpg](https://commons.wikimedia.org/wiki/File:Ada_Lovelace_portrait.jpg) | Alfred Edward Chalon; Science Museum Group | Public domain |
-| Grace Hopper | [Commodore Grace M. Hopper, USN (covered).jpg](https://commons.wikimedia.org/wiki/File:Commodore_Grace_M._Hopper,_USN_(covered).jpg) | James S. Davis | Public domain |
+| Grace Hopper | [Lt. Hopper in dress whites, 1944 or 1945](https://sova.si.edu/record/nmah.ac.0324) (Smithsonian NMAH Archives Center, Grace Murray Hopper Collection, NMAH.AC.0324, image NMAH-AC0324-0000041) | Photographer not identified; artwork by [TechLuddite](https://github.com/TechLuddite) | Rights not established by the collection |
 | Donald Knuth | [2012-06-16 Don Knuth on An Algorithmic View of the Universe.jpg](https://commons.wikimedia.org/wiki/File:2012-06-16_Don_Knuth_on_An_Algorithmic_View_of_the_Universe.jpg) | orcmid | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) |
 | Barbara Liskov | [Barbara Liskov MIT computer scientist 2010.jpg](https://commons.wikimedia.org/wiki/File:Barbara_Liskov_MIT_computer_scientist_2010.jpg) | Kenneth C. Zirkel | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
 | Margaret Hamilton | [Margaret Hamilton - restoration.jpg](https://commons.wikimedia.org/wiki/File:Margaret_Hamilton_-_restoration.jpg) | Adam Cuerden | Public domain |
@@ -77,4 +77,5 @@ The research was cross-checked against institutional histories and profiles:
 - All fifteen added wallpapers are JPEGs at 6144×4096 in the `backgrounds/` directory.
 - The generated art was produced with the built-in ImageGen workflow using the original wallpaper as a style reference and the credited portrait as an identity reference.
 - Technical motifs were tailored to each person's contribution; captions were composited afterward with Liberation Sans for accurate text.
+- Grace Hopper (`4-grace-hopper.jpg`) is contributor artwork by [TechLuddite](https://github.com/TechLuddite): a graphite-style AI portrait of the younger, smiling Lt. Hopper based on a 1944–45 Smithsonian photograph, with the series' moth, logbook, and punched-tape motifs. The Smithsonian collection does not establish an open license for that photograph, so its reuse rights remain unresolved.
 - Alan Kay (`16-alan-kay.jpg`) is an additional 6144×4096 JPEG in the same style; it is contributor-supplied artwork rather than a Wikimedia identity-reference generation.
