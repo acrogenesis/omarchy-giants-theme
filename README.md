@@ -4,7 +4,7 @@ Standing on the shoulders of giants. A warm, low-contrast dark theme for
 [Omarchy](https://omarchy.org) built around ink on aged paper: sepia and cream
 foregrounds over a soft brown-black background, with a dusty terracotta accent.
 
-![Giants preview](preview.png)
+![Giants preview](preview.jpg)
 
 ![Turing and von Neumann](backgrounds/1-turing-von-neumann.jpg)
 
