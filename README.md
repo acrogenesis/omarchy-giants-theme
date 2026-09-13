@@ -4,6 +4,9 @@ Standing on the shoulders of giants. A warm, low-contrast dark theme for
 [Omarchy](https://omarchy.org) built around ink on aged paper: sepia and cream
 foregrounds over a soft brown-black background, with a dusty terracotta accent.
 
+This is for pioneers working on the computer pre-internet.
+(We'll do another series for Internet and later).
+
 ![Giants preview](preview.jpg)
 
 ## Wallpapers
